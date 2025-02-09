@@ -6,6 +6,3 @@ To use it, download the files to the same folder, start your terminal, activate 
 \>>>> streamlit run app.py 
 
 You can then input the required variables to get a prediction.
-
-Contact
-Email: suhrudp@ieee.org
